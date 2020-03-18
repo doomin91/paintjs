@@ -1,2 +1,2 @@
 # paintjs
-Painting Board made with VanilaJS
+2020-03-18 웹 그림판 완성
